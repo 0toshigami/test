@@ -1,0 +1,11 @@
+{
+  "language": "vi",
+  "name": "Tiếng Việt",
+  "categories": [
+    {
+      "slug": "docs",
+      "title": "Docs",
+      "order": 0
+    }
+  ]
+}

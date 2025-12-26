@@ -1,0 +1,16 @@
+{
+  "title": "Test",
+  "order": 0,
+  "documents": [
+    {
+      "slug": "test-e",
+      "title": "test-e",
+      "order": 0
+    },
+    {
+      "slug": "test-d",
+      "title": "test-d",
+      "order": 1
+    }
+  ]
+}

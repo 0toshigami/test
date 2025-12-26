@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "name": "English",
+  "categories": [
+    {
+      "slug": "test",
+      "title": "Test",
+      "order": 0
+    }
+  ]
+}
