@@ -2,6 +2,7 @@
   "language": "en",
   "name": "English",
   "categories": [
+    "test-copy-4",
     {
       "slug": "test",
       "title": "Test",
