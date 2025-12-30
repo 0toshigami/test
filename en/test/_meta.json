@@ -1,16 +1,11 @@
 {
-  "title": "Test",
+  "title": "Test updated",
+  "description": "sss",
+  "icon": "aligncenter",
   "order": 0,
-  "documents": [
-    {
-      "slug": "test-e",
-      "title": "test-e",
-      "order": 0
-    },
-    {
-      "slug": "test-d",
-      "title": "test-d",
-      "order": 1
-    }
+  "hidden": false,
+  "featuredDocuments": [
+    "cmjpszar60002l68wscqh5x07",
+    "cmjpt687z0004l68wxs19nlpo"
   ]
 }
