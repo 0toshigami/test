@@ -1,11 +1,6 @@
 {
   "title": "Test nhưng là TV",
-  "description": "sss",
-  "icon": "aligncenter",
   "order": 0,
   "hidden": false,
-  "featuredDocuments": [
-    "cmjsga0mr0003kg8wyioyoh7t",
-    "cmjsga0md0002kg8wqv5gsk03"
-  ]
+  "featuredDocuments": []
 }
