@@ -3,9 +3,10 @@
   "name": "Tiếng Việt",
   "categories": [
     {
-      "slug": "docs",
-      "title": "Docs",
-      "order": 0
+      "slug": "test",
+      "title": "Test nhưng là TV",
+      "order": 0,
+      "hidden": false
     }
   ]
 }
