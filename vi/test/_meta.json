@@ -9,6 +9,11 @@
       "slug": "test-d",
       "title": "test-dde",
       "order": 0
+    },
+    {
+      "slug": "test-e",
+      "title": "Test e",
+      "order": 1
     }
   ]
 }
