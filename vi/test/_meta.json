@@ -3,7 +3,13 @@
   "slug": "test",
   "order": 0,
   "hidden": false,
-  "featuredDocuments": [],
+  "featuredDocuments": [
+    {
+      "slug": "test-d",
+      "title": "test-dde",
+      "order": 1
+    }
+  ],
   "documents": [
     {
       "slug": "test-d",
