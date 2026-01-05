@@ -1,8 +1,21 @@
 {
   "title": "Test updated",
+  "slug": "test",
   "description": "sss",
   "icon": "aligncenter",
   "order": 0,
   "hidden": false,
-  "featuredDocuments": []
+  "featuredDocuments": [],
+  "documents": [
+    {
+      "slug": "test-d",
+      "title": "Test Dde",
+      "order": 0
+    },
+    {
+      "slug": "test-e",
+      "title": "Test E",
+      "order": 1
+    }
+  ]
 }
