@@ -1,6 +1,14 @@
 {
-  "title": "Test nhưng là TV",
+  "title": "Test nhưng TV",
+  "slug": "test",
   "order": 0,
   "hidden": false,
-  "featuredDocuments": []
+  "featuredDocuments": [],
+  "documents": [
+    {
+      "slug": "test-d",
+      "title": "test-dde",
+      "order": 0
+    }
+  ]
 }
