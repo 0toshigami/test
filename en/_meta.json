@@ -2,11 +2,11 @@
   "language": "en",
   "name": "English",
   "categories": [
-    "test-copy-4",
     {
       "slug": "test",
-      "title": "Test",
-      "order": 0
+      "title": "Test updated",
+      "order": 0,
+      "hidden": false
     }
   ]
 }
